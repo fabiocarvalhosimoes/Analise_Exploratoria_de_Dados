@@ -35,6 +35,9 @@ A abordagem seguirá uma metodologia rigorosa de Análise Exploratória de Dados
 - Estrutura do Repositório:
 
 Notebooks: Contendo o código detalhado da análise, desde a importação do conjunto de dados até a criação dos modelos preditivos.
+
 Dados: O conjunto de dados utilizado no projeto.
+
 Resultados: Gráficos, visualizações e conclusões extraídas da análise.
+
 Fique à vontade para explorar, contribuir e degustar os resultados desta análise de dados, na busca pelo vinho perfeito! 🍇📊
